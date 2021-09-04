@@ -1,4 +1,4 @@
-# Heart-disease-UCI
+# Heart Disease UCI
 
 https://www.kaggle.com/ronitf/heart-disease-uci
 
